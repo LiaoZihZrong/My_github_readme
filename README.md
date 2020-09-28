@@ -2,7 +2,7 @@
 ### My project
 > * RNN_Assignment
 > * CV_Assignment 
-> * Python_Assignment
+> * W_Assignment
 > * PHP_backend
 >
 Most of my repositories were set private
